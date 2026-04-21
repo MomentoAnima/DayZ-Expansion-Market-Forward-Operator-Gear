@@ -15,9 +15,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "FOG_Combat_HikingBoots_Black",
+                "FOG_Combat_HikingBoots_Grey",
+                "FOG_Combat_HikingBoots_Khaki"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_Operator_Boots_Black",
             "MaxPriceThreshold": 80000,
             "MinPriceThreshold": 80000,
@@ -27,9 +31,154 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Operator_Boots_CB",
-				"FOG_Operator_Boots_RG"
-			]
+                "FOG_Operator_Boots_CB",
+                "FOG_Operator_Boots_RG"
+            ]
+        },
+        {
+            "ClassName": "FOG_ClimbingBoots_Brown",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_DEFCONVans_Shoes_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_DEFCONVans_Shoes_Blue",
+                "FOG_DEFCONVans_Shoes_CB",
+                "FOG_DEFCONVans_Shoes_Grey",
+                "FOG_DEFCONVans_Shoes_KHK",
+                "FOG_DEFCONVans_Shoes_MC",
+                "FOG_DEFCONVans_Shoes_MCAL",
+                "FOG_DEFCONVans_Shoes_MCB",
+                "FOG_DEFCONVans_Shoes_MCT",
+                "FOG_DEFCONVans_Shoes_RG",
+                "FOG_DEFCONVans_Shoes_Red"
+            ]
+        },
+        {
+            "ClassName": "FOG_Lerch_Boots_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Lerch_Boots_Black_Dirty",
+                "FOG_Lerch_Boots_CB",
+                "FOG_Lerch_Boots_Khk",
+                "FOG_Lerch_Boots_MC",
+                "FOG_Lerch_Boots_MCB",
+                "FOG_Lerch_Boots_RG"
+            ]
+        },
+        {
+            "ClassName": "FOG_Maritime_Shoes_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Maritime_Shoes_Blue",
+                "FOG_Maritime_Shoes_CB",
+                "FOG_Maritime_Shoes_Culston",
+                "FOG_Maritime_Shoes_DTGR",
+                "FOG_Maritime_Shoes_Grey",
+                "FOG_Maritime_Shoes_KHK",
+                "FOG_Maritime_Shoes_M81",
+                "FOG_Maritime_Shoes_M81Red",
+                "FOG_Maritime_Shoes_MC",
+                "FOG_Maritime_Shoes_MCB",
+                "FOG_Maritime_Shoes_MCB_T",
+                "FOG_Maritime_Shoes_MC_T",
+                "FOG_Maritime_Shoes_RG",
+                "FOG_Maritime_Shoes_Red"
+            ]
+        },
+        {
+            "ClassName": "FOG_XAForces_Shoes_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_XAForces_Shoes_CB",
+                "FOG_XAForces_Shoes_Grey",
+                "FOG_XAForces_Shoes_RG",
+                "FOG_XAForces_Shoes_Tan"
+            ]
+        },
+        {
+            "ClassName": "FOG_Zypher_Boots_Black_NoSocks",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Zypher_Boots_Black_Socks"
+            ]
+        },
+        {
+            "ClassName": "FOG_Zypher_Boots_CB_NoSocks",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Zypher_Boots_CB_Socks"
+            ]
+        },
+        {
+            "ClassName": "FOG_Zypher_Boots_RG_NoSocks",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Zypher_Boots_RG_Socks"
+            ]
+        },
+        {
+            "ClassName": "FOG_Zypher_Boots_Tan_NoSocks",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Zypher_Boots_Tan_Socks"
+            ]
         }
     ]
 }

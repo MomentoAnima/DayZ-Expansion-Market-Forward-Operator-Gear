@@ -16,15 +16,15 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Belt_RTGFB_CB",
-				"FOG_Belt_RTGFB_MC",
-				"FOG_Belt_RTGFB_RG",
-				"FOG_Belt_RTGFB_AOR1",
-				"FOG_Belt_RTGFB_AOR2",
-				"FOG_Belt_RTGFB_ALP"
-			]
+                "FOG_Belt_RTGFB_CB",
+                "FOG_Belt_RTGFB_MC",
+                "FOG_Belt_RTGFB_RG",
+                "FOG_Belt_RTGFB_AOR1",
+                "FOG_Belt_RTGFB_AOR2",
+                "FOG_Belt_RTGFB_ALP"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_BISON_Belt_Black",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
@@ -34,14 +34,14 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_BISON_Belt_CB",
-				"FOG_BISON_Belt_RG",
-				"FOG_BISON_Belt_Black",
-				"FOG_BISON_Belt_MC",
-				"FOG_BISON_Belt_MCB"
-			]
+                "FOG_BISON_Belt_CB",
+                "FOG_BISON_Belt_RG",
+                "FOG_BISON_Belt_Black",
+                "FOG_BISON_Belt_MC",
+                "FOG_BISON_Belt_MCB"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_MRB_Belt_Black",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
@@ -51,16 +51,30 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_MRB_Belt_CB",
-				"FOG_MRB_Belt_MC",
-				"FOG_MRB_Belt_MCB",
-				"FOG_MRB_Belt_RG",
-				"FOG_MRB_Belt_AOR1",
-				"FOG_MRB_Belt_AOR2",
-				"FOG_MRB_Belt_ATACSAU",
-				"FOG_MRB_Belt_6CD",
-				"FOG_MRB_Belt_MCT"
-			]
+                "FOG_MRB_Belt_CB",
+                "FOG_MRB_Belt_MC",
+                "FOG_MRB_Belt_MCB",
+                "FOG_MRB_Belt_RG",
+                "FOG_MRB_Belt_AOR1",
+                "FOG_MRB_Belt_AOR2",
+                "FOG_MRB_Belt_ATACSAU",
+                "FOG_MRB_Belt_6CD",
+                "FOG_MRB_Belt_MCT"
+            ]
+        },
+        {
+            "ClassName": "FOG_Belt_TacticalFanny_BLK",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 40000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Belt_TacticalFanny_CB",
+                "FOG_Belt_TacticalFanny_RG"
+            ]
         }
     ]
 }

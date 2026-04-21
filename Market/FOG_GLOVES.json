@@ -16,13 +16,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Tactical_Fingerless_Gloves_Green",
-				"FOG_Tactical_Fingerless_Gloves_Tan",
-				"FOG_Tactical_Fingerless_Gloves_Red",
-				"FOG_Tactical_Fingerless_Gloves_MC"
-			]
+                "FOG_Tactical_Fingerless_Gloves_Green",
+                "FOG_Tactical_Fingerless_Gloves_Tan",
+                "FOG_Tactical_Fingerless_Gloves_Red",
+                "FOG_Tactical_Fingerless_Gloves_MC"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_FerroGloves_Black",
             "MaxPriceThreshold": 60000,
             "MinPriceThreshold": 60000,
@@ -32,25 +32,25 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_FerroGloves_Tan",
-				"FOG_FerroGloves_Grey",
-				"FOG_FerroGloves_Red",
-				"FOG_FerroGloves_Blue",
-				"FOG_FerroGloves_White",
-				"FOG_FerroGloves_White_TanTrim",
-				"FOG_FerroGloves_CB",
-				"FOG_FerroGloves_RG",
-				"FOG_FerroGloves_Black_WhiteTrim",
-				"FOG_FerroGloves_Black_BlueTrim",
-				"FOG_FerroGloves_Black_RedTrim",
-				"FOG_FerroGloves_Black_TanTrim",
-				"FOG_FerroGloves_MC",
-				"FOG_FerroGloves_MCB",
-				"FOG_FerroGloves_M81",
-				"FOG_FerroGloves_AJ"
-			]
+                "FOG_FerroGloves_Tan",
+                "FOG_FerroGloves_Grey",
+                "FOG_FerroGloves_Red",
+                "FOG_FerroGloves_Blue",
+                "FOG_FerroGloves_White",
+                "FOG_FerroGloves_White_TanTrim",
+                "FOG_FerroGloves_CB",
+                "FOG_FerroGloves_RG",
+                "FOG_FerroGloves_Black_WhiteTrim",
+                "FOG_FerroGloves_Black_BlueTrim",
+                "FOG_FerroGloves_Black_RedTrim",
+                "FOG_FerroGloves_Black_TanTrim",
+                "FOG_FerroGloves_MC",
+                "FOG_FerroGloves_MCB",
+                "FOG_FerroGloves_M81",
+                "FOG_FerroGloves_AJ"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_GunGloves_Black",
             "MaxPriceThreshold": 60000,
             "MinPriceThreshold": 60000,
@@ -60,15 +60,206 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_GunGloves_Tan",
-				"FOG_GunGloves_Grey",
-				"FOG_GunGloves_CB",
-				"FOG_GunGloves_RG",
-				"FOG_GunGloves_MC",
-				"FOG_GunGloves_MCB",
-				"FOG_GunGloves_M81",
-				"FOG_GunGloves_AOR2"
-			]
+                "FOG_GunGloves_Tan",
+                "FOG_GunGloves_Grey",
+                "FOG_GunGloves_CB",
+                "FOG_GunGloves_RG",
+                "FOG_GunGloves_MC",
+                "FOG_GunGloves_MCB",
+                "FOG_GunGloves_M81",
+                "FOG_GunGloves_AOR2"
+            ]
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_Black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_MechanixGloves_Black_Words"
+            ]
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_Green",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_MC",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_RG",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_Skele",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MechanixGloves_Tan",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_PIGFDT_Gloves_Black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_PIGFDT_Gloves_AJ",
+                "FOG_PIGFDT_Gloves_AOR1",
+                "FOG_PIGFDT_Gloves_AOR2",
+                "FOG_PIGFDT_Gloves_CB",
+                "FOG_PIGFDT_Gloves_Grey",
+                "FOG_PIGFDT_Gloves_M81",
+                "FOG_PIGFDT_Gloves_MC",
+                "FOG_PIGFDT_Gloves_MCAL",
+                "FOG_PIGFDT_Gloves_MCB",
+                "FOG_PIGFDT_Gloves_MCT",
+                "FOG_PIGFDT_Gloves_RG",
+                "FOG_PIGFDT_Gloves_Tan"
+            ]
+        },
+        {
+            "ClassName": "FOG_WinterGloves_Black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_CB",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_MC",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_MCAL",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_MCB",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_RG",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_Red",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_Tan",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_WinterGloves_White",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

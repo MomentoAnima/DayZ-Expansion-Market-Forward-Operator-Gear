@@ -17,7 +17,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FOG_BoltCutters",
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 180000,
@@ -28,7 +28,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FOG_ZynCan_WinterGreen",
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 180000,
@@ -39,7 +39,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FOG_DR_Tomahawk_Standard",
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 180000,
@@ -50,7 +50,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FOG_Strongarm_Knife",
             "MaxPriceThreshold": 120000,
             "MinPriceThreshold": 120000,

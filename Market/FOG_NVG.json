@@ -7,7 +7,7 @@
     "InitStockPercent": 100.0,
     "Items": [
         {
-            "ClassName": "FOG_GPNVG_Tarzier_Black",
+            "ClassName": "FOG_GPNVG_Black",
             "MaxPriceThreshold": 595000,
             "MinPriceThreshold": 595000,
             "SellPricePercent": -1.0,
@@ -16,12 +16,12 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_GPNVG_Tan",
-				"FOG_GPNVG_RG",
-				"FOG_GPNVG_Elite"
-			]
+                "FOG_GPNVG_Tan",
+                "FOG_GPNVG_RG",
+                "FOG_GPNVG_Elite"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_PVS31",
             "MaxPriceThreshold": 550000,
             "MinPriceThreshold": 550000,
@@ -31,11 +31,83 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_PVS31_Wrapped",
-				"FOG_PVS31_FDE",
-				"FOG_PVS31_FDE_Wrapped",
-				"FOG_PVS31A_Black"
-			]
+                "FOG_PVS31_Wrapped",
+                "FOG_PVS31_FDE",
+                "FOG_PVS31_FDE_Wrapped",
+                "FOG_PVS31A_Black"
+            ]
+        },
+        {
+            "ClassName": "FOG_ANVIS9",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_GPNVG_Elite_B",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_GPNVG_Elite_T",
+                "FOG_GPNVG_Elite_W"
+            ]
+        },
+        {
+            "ClassName": "FOG_PVS31A_Black_B",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_PVS31A_Black_T",
+                "FOG_PVS31A_Black_W"
+            ]
+        },
+        {
+            "ClassName": "FOG_UAPNVG_Black",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_UAPNVG_RG",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_UAPNVG_Tan",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

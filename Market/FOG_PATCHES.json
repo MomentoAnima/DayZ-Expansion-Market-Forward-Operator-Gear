@@ -16,12 +16,16 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Big_Patch_RedMan",
-				"FOG_Big_Patch_FOG_cc",
-				"FOG_Big_Patch_CrimeCo"
-			]
+                "FOG_Big_Patch_RedMan",
+                "FOG_Big_Patch_FOG_cc",
+                "FOG_Big_Patch_CrimeCo",
+                "FOG_Big_Patch_FOGonia",
+                "FOG_Big_Patch_KillCell",
+                "FOG_Big_Patch_MeltyBoys",
+                "FOG_Big_Patch_US_IR"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_JPC_Panel_Black_Flag_US",
             "MaxPriceThreshold": 35000,
             "MinPriceThreshold": 35000,
@@ -31,12 +35,38 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_JPC_Panel_CB_Flag_US",
-				"FOG_JPC_Panel_RG_Flag_US",
-				"FOG_JPC_Panel_MC_Flag_US",
-				"FOG_JPC_Panel_AOR1_Flag_US",
-				"FOG_JPC_Panel_AOR2_Flag_US"
-			]
+                "FOG_JPC_Panel_CB_Flag_US",
+                "FOG_JPC_Panel_RG_Flag_US",
+                "FOG_JPC_Panel_MC_Flag_US",
+                "FOG_JPC_Panel_AOR1_Flag_US",
+                "FOG_JPC_Panel_AOR2_Flag_US",
+                "FOG_JPC_Panel_Grey_Flag_US",
+                "FOG_JPC_Panel_M81_Flag_US",
+                "FOG_JPC_Panel_MCB_Flag_US",
+                "FOG_JPC_Panel_White_Flag_US"
+            ]
+        },
+        {
+            "ClassName": "FOG_FC_Panel_MCB_Flag_US",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_FC_Panel_White_Flag_US",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

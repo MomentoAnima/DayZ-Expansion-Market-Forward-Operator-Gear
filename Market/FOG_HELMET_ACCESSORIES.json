@@ -15,7 +15,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "FOG_HMTL_Light_Black",
+                "FOG_HMTL_Light_TwoTone"
+            ]
         },
         {
             "ClassName": "FOG_IR_Marker",
@@ -50,7 +53,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FOG_Comtac3_Headphones_Black_Velcro",
             "MaxPriceThreshold": 160000,
             "MinPriceThreshold": 160000,
@@ -60,21 +63,21 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Comtac3_Headphones_AJ",
-				"FOG_Comtac3_Headphones_CB",
-				"FOG_Comtac3_Headphones_FG",
-				"FOG_Comtac3_Headphones_RG",
-				"FOG_Comtac3_Headphones_RG_01",
-				"FOG_Comtac3_Headphones_RG_XPI",
-				"FOG_Comtac3_Headphones_RG_Spray",
-				"FOG_Comtac3_Headphones_Black",
-				"FOG_Comtac3_Headphones_CB_Velcro",
-				"FOG_Comtac3_Headphones_RG_Velcro",
-				"FOG_Comtac3_Headphones_FG_Velcro",
-				"FOG_Comtac3_Headphones_Tan_Velcro"
-			]
+                "FOG_Comtac3_Headphones_AJ",
+                "FOG_Comtac3_Headphones_CB",
+                "FOG_Comtac3_Headphones_FG",
+                "FOG_Comtac3_Headphones_RG",
+                "FOG_Comtac3_Headphones_RG_01",
+                "FOG_Comtac3_Headphones_RG_XPI",
+                "FOG_Comtac3_Headphones_RG_Spray",
+                "FOG_Comtac3_Headphones_Black",
+                "FOG_Comtac3_Headphones_CB_Velcro",
+                "FOG_Comtac3_Headphones_RG_Velcro",
+                "FOG_Comtac3_Headphones_FG_Velcro",
+                "FOG_Comtac3_Headphones_Tan_Velcro"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_Comtac_IV_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -84,11 +87,11 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Comtac_IV_CB",
-				"FOG_Comtac_IV_RG"
-			]
+                "FOG_Comtac_IV_CB",
+                "FOG_Comtac_IV_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_M32_Helmet_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -98,10 +101,10 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_M32_Helmet_RG"
-			]
+                "FOG_M32_Helmet_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_AMP_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -111,13 +114,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_AMP_Tan",
-				"FOG_AMP_MC",
-				"FOG_AMP_MCB",
-				"FOG_AMP_MCBT"
-			]
+                "FOG_AMP_Tan",
+                "FOG_AMP_MC",
+                "FOG_AMP_MCB",
+                "FOG_AMP_MCBT"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_SF_Cover_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -127,19 +130,19 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_SF_Cover_MC",
-				"FOG_SF_Cover_MCB",
-				"FOG_SF_Cover_MCA",
-				"FOG_SF_Cover_MCAL",
-				"FOG_SF_Cover_MCT",
-				"FOG_SF_Cover_AOR1",
-				"FOG_SF_Cover_AOR2",
-				"FOG_SF_Cover_M81",
-				"FOG_SF_Cover_CB",
-				"FOG_SF_Cover_RG"
-			]
+                "FOG_SF_Cover_MC",
+                "FOG_SF_Cover_MCB",
+                "FOG_SF_Cover_MCA",
+                "FOG_SF_Cover_MCAL",
+                "FOG_SF_Cover_MCT",
+                "FOG_SF_Cover_AOR1",
+                "FOG_SF_Cover_AOR2",
+                "FOG_SF_Cover_M81",
+                "FOG_SF_Cover_CB",
+                "FOG_SF_Cover_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_SF_BatteryPack_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -149,13 +152,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_SF_BatteryPack_Tan",
-				"FOG_SF_BatteryPack_RG",
-				"FOG_SF_BatteryPack_MC",
-				"FOG_SF_BatteryPack_MCB"
-			]
+                "FOG_SF_BatteryPack_Tan",
+                "FOG_SF_BatteryPack_RG",
+                "FOG_SF_BatteryPack_MC",
+                "FOG_SF_BatteryPack_MCB"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_FC_Torus_BattPack_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -165,13 +168,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_FC_Torus_BattPack_MC",
-				"FOG_FC_Torus_BattPack_MCB",
-				"FOG_FC_Torus_BattPack_CB",
-				"FOG_FC_Torus_BattPack_RG"
-			]
+                "FOG_FC_Torus_BattPack_MC",
+                "FOG_FC_Torus_BattPack_MCB",
+                "FOG_FC_Torus_BattPack_CB",
+                "FOG_FC_Torus_BattPack_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_FastMT_Mandable_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -181,12 +184,12 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_FastMT_Mandable_Tan",
-				"FOG_FastMT_Mandable_MC",
-				"FOG_FastMT_Mandable_RG"
-			]
+                "FOG_FastMT_Mandable_Tan",
+                "FOG_FastMT_Mandable_MC",
+                "FOG_FastMT_Mandable_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_FastMT_RAC_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -196,11 +199,11 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_FastMT_RAC_Tan",
-				"FOG_FastMT_RAC_RG"
-			]
+                "FOG_FastMT_RAC_Tan",
+                "FOG_FastMT_RAC_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_FASTMT_Cover_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -210,15 +213,15 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_FASTMT_Cover_MC",
-				"FOG_FASTMT_Cover_MCB",
-				"FOG_FASTMT_Cover_AOR1",
-				"FOG_FASTMT_Cover_AOR2",
-				"FOG_FASTMT_Cover_ALP",
-				"FOG_FASTMT_Cover_RG"
-			]
+                "FOG_FASTMT_Cover_MC",
+                "FOG_FASTMT_Cover_MCB",
+                "FOG_FASTMT_Cover_AOR1",
+                "FOG_FASTMT_Cover_AOR2",
+                "FOG_FASTMT_Cover_ALP",
+                "FOG_FASTMT_Cover_RG"
+            ]
         },
-		{
+        {
             "ClassName": "FOG_Airframe_Cover_Black",
             "MaxPriceThreshold": 170000,
             "MinPriceThreshold": 170000,
@@ -228,14 +231,127 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"FOG_Airframe_Cover_CB",
-				"FOG_Airframe_Cover_MC",
-				"FOG_Airframe_Cover_MCB",
-				"FOG_Airframe_Cover_RG",
-				"FOG_Airframe_Cover_ALP",
-				"FOG_Airframe_Cover_AOR1",
-				"FOG_Airframe_Cover_AOR2"
-			]
+                "FOG_Airframe_Cover_CB",
+                "FOG_Airframe_Cover_MC",
+                "FOG_Airframe_Cover_MCB",
+                "FOG_Airframe_Cover_RG",
+                "FOG_Airframe_Cover_ALP",
+                "FOG_Airframe_Cover_AOR1",
+                "FOG_Airframe_Cover_AOR2"
+            ]
+        },
+        {
+            "ClassName": "FOG_AMP_Headset_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_AMP_Headset_Grey",
+                "FOG_AMP_Headset_RG",
+                "FOG_AMP_Headset_Tan"
+            ]
+        },
+        {
+            "ClassName": "FOG_COMTAC3_Headset_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_COMTAC3_Headset_AJ",
+                "FOG_COMTAC3_Headset_Black_Velcro",
+                "FOG_COMTAC3_Headset_CB",
+                "FOG_COMTAC3_Headset_CB_Velcro",
+                "FOG_COMTAC3_Headset_FG",
+                "FOG_COMTAC3_Headset_FG_Velcro",
+                "FOG_COMTAC3_Headset_RG",
+                "FOG_COMTAC3_Headset_RG_01",
+                "FOG_COMTAC3_Headset_RG_Spray",
+                "FOG_COMTAC3_Headset_RG_Velcro",
+                "FOG_COMTAC3_Headset_RG_XPI",
+                "FOG_COMTAC3_Headset_Tan_Velcro"
+            ]
+        },
+        {
+            "ClassName": "FOG_Comtac4_Headset_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Comtac4_Headset_Grey",
+                "FOG_Comtac4_Headset_RG",
+                "FOG_Comtac4_Headset_Tan"
+            ]
+        },
+        {
+            "ClassName": "FOG_HGU_MFS_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_HGU_MFS_Grey",
+                "FOG_HGU_MFS_Joker",
+                "FOG_HGU_MFS_MonsterGrin",
+                "FOG_HGU_MFS_Mustache",
+                "FOG_HGU_MFS_OD",
+                "FOG_HGU_MFS_Pig",
+                "FOG_HGU_MFS_SL",
+                "FOG_HGU_MFS_Skull",
+                "FOG_HGU_MFS_Smiley",
+                "FOG_HGU_MFS_T499",
+                "FOG_HGU_MFS_Tan",
+                "FOG_HGU_MFS_Vader"
+            ]
+        },
+        {
+            "ClassName": "FOG_HGU_Visor_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_M32_Headset_Black",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_M32_Headset_RG"
+            ]
+        },
+        {
+            "ClassName": "FOG_Placard_Paraclete_MC",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
